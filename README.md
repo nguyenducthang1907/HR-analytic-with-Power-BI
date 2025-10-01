@@ -12,6 +12,7 @@ Data Visualization: Applied professional dashboarding techniques (cards, bar cha
 Business Insights: Delivered key findings for HR decision-making: hiring trends, attrition by job role/department, employee satisfaction over time, and demographics breakdown.
 
 📊 Dashboard Features
+
 Overview Page
 Total Employees, Active vs Inactive, Attrition Rate.
 Hiring trend by year and attrition status.
@@ -30,6 +31,7 @@ Attrition rate by job role, overtime, years at company, and business travel freq
 Yearly attrition trend visualization.
 
 📷 Dashboard Pages & Insights
+
 1. Overview
 ![z7069833832094_fce7b65d4c0a781b263323979b1755b8](https://github.com/user-attachments/assets/e53dd674-2cbb-4adb-ab86-57a7bd841bea)
 
@@ -70,6 +72,7 @@ By tenure: Attrition peaks at 0–1 years, then declines with seniority.
 ➡️ Implication: Early tenure, workload (OT), and heavy travel are strong predictors of attrition.
 
 📝 Recommendations
+
 A. Reduce Attrition & Retain Talent
 Early tenure retention (0–12 months): structured onboarding, mentoring, and frequent check-ins; target ≥30% reduction in first-year attrition.
 High-risk roles (Sales Reps, Recruiters, Data Scientists): review workloads, incentives, and career paths; introduce role-specific retention initiatives.
@@ -90,6 +93,7 @@ Advanced reporting: Drillthrough from overview → individual profiles; role-bas
 Data ops: Automated refresh, data quality logging, and a data dictionary for transparency.
 
 🚀 Key Outcomes
+
 Built a professional HR dashboard consolidating multiple dimensions.
 Identified insights into retention, workforce structure, and performance dynamics.
 Demonstrated full-cycle Power BI expertise: data ingestion → modeling → DAX → dashboard storytelling.
