@@ -6,6 +6,7 @@ This project presents an end-to-end HR analytics dashboard developed in Power BI
 The objective was to demonstrate how data modeling, DAX, Power Query, and visualization best practices can be applied to transform raw HR data into actionable business insights.
 
 🎯 Key Skills Applied
+
 Data Modeling: Designed star schema with fact and dimension tables (Employee, Performance, Satisfaction, DimDate).
 Power Query (M language): Cleaned, transformed, and standardized datasets for reporting.
 DAX Measures: Built KPIs such as Attrition Rate %, Active vs Inactive Employees, Margin%, Satisfaction Scores.
