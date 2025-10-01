@@ -1,4 +1,5 @@
 Employee Analytics Dashboard – Power BI Project
+
 📌 Project Overview
 This project presents an end-to-end HR analytics dashboard developed in Power BI. The dataset was modeled from multiple dimensions including Employee, Education Level, Performance Rating, Rating Level, Satisfaction Level, and DimDate, allowing analysis of workforce demographics, performance trends, and attrition rates.
 The objective was to demonstrate how data modeling, DAX, Power Query, and visualization best practices can be applied to transform raw HR data into actionable business insights.
